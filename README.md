@@ -54,7 +54,7 @@ I'm a **Java Fullstack Developer** passionate about crafting clean, scalable web
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gajanan43&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gajanan43&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
