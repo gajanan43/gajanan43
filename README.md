@@ -1,10 +1,5 @@
-<h1 align="center">
-  Hi there, I'm <strong>Gajanan Narwade</strong> 👋
-</h1>
-
-<p align="center">
-  <em>Java Fullstack Developer · Building scalable systems with Spring Boot & React</em>
-</p>
+<h1 align="center">Hi 👋, I'm Gajanan Narwade</h1>
+<h3 align="center">☕ Java Fullstack Developer · Spring Boot · React · Docker · Kubernetes</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gajanan43&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -16,12 +11,13 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Java Fullstack Developer** passionate about crafting clean, scalable web applications from backend APIs to polished frontends.
+I'm a **Java Fullstack Developer** passionate about crafting clean, scalable web applications — from RESTful APIs in Spring Boot to dynamic UIs in React.
 
 - 🔭 Currently building fullstack applications with **Spring Boot + React**
-- 🌱 Deepening my skills in **Microservices**, **Docker**, and **Kubernetes**
-- 💡 I enjoy turning complex business problems into elegant technical solutions
-- 📫 Reach me at: **[LinkedIn](https://linkedin.com/in/gajanan43)**
+- 🌱 Deepening expertise in **Microservices**, **Docker**, and **Kubernetes**
+- 💡 I enjoy solving real-world problems with elegant, maintainable code
+- 🌦️ Built a **Weather App** using JavaScript & external APIs
+- 📫 Connect with me on **[LinkedIn](https://linkedin.com/in/gajanan43)**
 - ⚡ Fun fact: I love optimizing things — whether it's code, queries, or my morning routine
 
 ---
@@ -55,23 +51,23 @@ I'm a **Java Fullstack Developer** passionate about crafting clean, scalable web
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gajanan43&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Gajanan's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gajanan43&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gajanan43&show_icons=true&theme=github_dark&hide_border=true&layout=compact&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gajanan43&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gajanan43&theme=darkhub&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gajanan43&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gajanan43&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gajanan43&show_icons=true&theme=github_dark&hide_border=true&layout=compact&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -80,15 +76,12 @@ I'm a **Java Fullstack Developer** passionate about crafting clean, scalable web
 
 <p align="left">
   <a href="https://linkedin.com/in/gajanan43" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Add more links below as needed -->
-  <!-- <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
-  <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
 </p>
 
 ---
 
 <p align="center">
-  <em>✨ "First, solve the problem. Then, write the code." — John Johnson</em>
+  <em>✨ "First, solve the problem. Then, write the code."</em>
 </p>
