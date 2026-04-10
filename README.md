@@ -62,7 +62,7 @@ I'm a **Java Fullstack Developer** passionate about crafting clean, scalable web
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gajanan43&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gajanan43&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gajanan43&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
