@@ -67,7 +67,7 @@ I'm a **Java Fullstack Developer** passionate about crafting clean, scalable web
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gajanan43&show_icons=true&theme=github_dark&hide_border=true&layout=compact&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajanan43&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
