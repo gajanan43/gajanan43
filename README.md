@@ -65,6 +65,14 @@ I'm a **Java Fullstack Developer** passionate about crafting clean, scalable web
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gajanan43?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="left">
