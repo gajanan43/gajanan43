@@ -59,27 +59,7 @@ I'm a **Java Fullstack Developer** passionate about crafting clean, scalable web
   <img src="https://leetcard.jacoblin.cool/gajanan43?theme=dark&font=Karma" width="48%" alt="LeetCode Stats" />
 </p>
 ---
-## 📊 GitHub & LeetCode Progress:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gajanan43&theme=github-dark-blue&hide_border=true" width="47%" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/gajanan43?theme=dark&font=Karma&border=0&radius=10" width="47%" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajanan43&layout=compact&theme=github_dark&hide_border=true" width="47%" alt="Top Languages" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=gajanan43&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="47%" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/gajanan43/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-gajanan43-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
-  </a>
-</p>
-
----
 ## 🤝 Connect With Me
 
 <p align="left">
