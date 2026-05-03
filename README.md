@@ -73,6 +73,14 @@ I'm a **Java Fullstack Developer** passionate about crafting clean, scalable web
 
 ---
 
+## 📊 GitHub & LeetCode Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gajanan43&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/gajanan43?theme=dark&font=Karma" width="48%" alt="LeetCode Stats" />
+</p>
+---
+
 ## 🤝 Connect With Me
 
 <p align="left">
