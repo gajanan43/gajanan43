@@ -79,7 +79,6 @@ I'm a **Java Fullstack Developer** passionate about crafting clean, scalable web
 ----
 ----
 
-
 <h1 align="center">Hi 👋, I'm Gajanan Narwade</h1>
 <h3 align="center">☕ Java & .NET Fullstack Developer · Spring Boot · ASP.NET Core · React · Docker · Kubernetes</h3>
 
@@ -143,7 +142,7 @@ I'm a **Java & .NET Fullstack Developer** passionate about crafting clean, scala
 ## 📊 GitHub & LeetCode Progress
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gajanan43&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=gajanan43&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub Streak" />
   <img src="https://leetcard.jacoblin.cool/gajanan43?theme=dark&font=Karma" width="48%" alt="LeetCode Stats" />
 </p>
 
@@ -197,11 +196,8 @@ I'm a **Java & .NET Fullstack Developer** passionate about crafting clean, scala
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gajanan43&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajanan43&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
