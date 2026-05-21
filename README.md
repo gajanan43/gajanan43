@@ -197,6 +197,8 @@ I'm a **Java & .NET Fullstack Developer** passionate about crafting clean, scala
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gajanan43&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
   
